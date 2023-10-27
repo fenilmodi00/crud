@@ -117,16 +117,15 @@ For more information about how to use these endpoints, refer to the API document
 
 Here are some working screenshots of the application:
 
-1. ![Screenshot 1](Movie-Review-Crud-App/Screenshots/create operation.jpg)
+![operation1](https://github.com/SheikhSuhail19/Movie-Review-Crud-App/assets/70643928/28ff9c1e-e23a-4a1e-a4f8-b9fda1d95896)
+![operation11](https://github.com/SheikhSuhail19/Movie-Review-Crud-App/assets/70643928/eeaa0f2c-75ee-4666-a3fa-c94eec98cb02)
+![operation2](https://github.com/SheikhSuhail19/Movie-Review-Crud-App/assets/70643928/bfe8e885-e2ce-4ed6-882b-a60a03f1a3fb)
+![operation22](https://github.com/SheikhSuhail19/Movie-Review-Crud-App/assets/70643928/ca4984fe-e709-41c1-98ff-f39c412884c0)
+![operation3](https://github.com/SheikhSuhail19/Movie-Review-Crud-App/assets/70643928/64eef2fe-b35f-4c67-9823-e08e4013486e)
+![operation33](https://github.com/SheikhSuhail19/Movie-Review-Crud-App/assets/70643928/3c86f109-4579-4272-90ee-96cbd443c8c0)
+![operation7](https://github.com/SheikhSuhail19/Movie-Review-Crud-App/assets/70643928/958c2b91-6147-4049-8ebc-fb615a977cd5)
+![operation6](https://github.com/SheikhSuhail19/Movie-Review-Crud-App/assets/70643928/70e294d5-3b92-4d82-92f2-30625671b805)
+![operation4](https://github.com/SheikhSuhail19/Movie-Review-Crud-App/assets/70643928/9561b31d-eb60-422f-8893-90b5cc9e0daf)
 
-2. ![Screenshot 2](Movie-Review-Crud-App/Screenshots/create operation.jpg)
-
-3. ![Screenshot 3](Movie-Review-Crud-App/Screenshots/create operation.jpg)
-
-4. ![Screenshot 4](Movie-Review-Crud-App/Screenshots/create operation.jpg)
-
-5. ![Screenshot 5](Movie-Review-Crud-App/Screenshots/create operation.jpg)
-
-6. ![Screenshot 6](Movie-Review-Crud-App/Screenshots/create operation.jpg)
 
 Feel free to modify and extend this basic CRUD application to suit your specific needs or use it as a starting point for more complex projects. Happy coding!
