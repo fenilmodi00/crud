@@ -8,7 +8,7 @@ const db = mysql.createPool({
   host: 'localhost',
   port: 3306,
   user: 'root',
-  password: 'password',
+  password: 'root',
   database: 'cruddatabase',
 });
 
@@ -77,3 +77,4 @@ app.put('/api/update', (req, res) => {
 app.listen(3001, () => {
   console.log("Running on Port 3001");
 });
+

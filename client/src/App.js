@@ -45,7 +45,7 @@ function App() {
   return (
     <div className="App">
 
-      <h1> CRUD Application </h1>
+      <h1> Movie review Application </h1>
 
       <div className="form">
 
@@ -98,7 +98,6 @@ function App() {
 
             )
           })}
-
       </div>
 
     </div>
